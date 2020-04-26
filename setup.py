@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="finfun-techscene",
-    version="0.0.1",
+    name="finfun",
+    version="0.0.3",
     author="Stefan Trost",
     author_email="stefan@techscene.de",
     description="Some useful financial functions",
